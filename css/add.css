@@ -1,0 +1,61 @@
+.add{
+    width:380px;
+    position:absolute;
+    top:120px;
+    left:50%;
+    margin-left:-220px ;
+}
+.title{
+    height:30px;
+    padding-left: 10px;
+    background-color: #F5F5F5;
+    line-height: 30px;
+    font-weight: bold;
+    border:1px solid #D8BFD8;
+    background: rgba(204,204,204, 0.6);
+}
+.user-info{
+    padding: 15px 0 0 15px;
+    background-color: #fff;
+    border:1px solid #D8BFD8;
+    padding-left: 80px;
+    background: rgba(204,204,204, 0.6);
+}
+.user-title{
+    width:50px;
+    height:30px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 4px;
+    text-align: center;
+    display: block;
+    border:1px solid #d9d9d9;
+    background-color: #f9f9f9;
+    float: left;
+    line-height: 30px;
+     background: rgba(204,204,204, 0.6);
+}
+.input-base{
+    width:160px;
+    height:28px;
+    background-color: #fff;
+    border:1px solid #cccccc;
+    padding-left: 10px;
+    background: rgba(204,204,204, 0.6);
+
+}
+.input-sub{
+    padding-left: 30px;
+    padding-bottom: 15px;
+}
+.add .input{
+    margin-bottom: 15px;
+}
+.user-radio{
+    margin-top: 10px;
+}
+.class-height{
+    height:26px;
+}
+.input-sub .zt{
+    cursor: pointer;
+}
